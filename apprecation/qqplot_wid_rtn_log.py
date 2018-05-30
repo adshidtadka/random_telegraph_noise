@@ -22,9 +22,8 @@ matplotlib.rcParams['lines.linewidth'] = 2
 
 directory = os.listdir('../matfiles')
 for item in directory:
-	path = '../matfiles/' + item
-	print(path)
-	data = sio.loadmat(path)
+	print('../matfiles/' + item)
+	data = sio.loadmat('../matfiles/' + item)
 	
 	# Extract WID and RTN data
 	fmax_ary = np.array([])
@@ -64,4 +63,8 @@ for item in directory:
 	
 	#plt.legend()
 	#plt.grid()
-	plt.show()
+
+	print('../fig/' + item[:-4] + '.pdf')
+	plt.savefig('../fig/' + item[:-4] + '.pdf')
+
+	# plt.show()
