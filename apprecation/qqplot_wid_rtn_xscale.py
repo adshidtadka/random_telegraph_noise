@@ -47,16 +47,16 @@ for item in directory:
 	
 	plt.cla()
 	
-	plt.hist(fmax_ary, 15)
-	plt.xlabel('$f_\mathrm{max}$ [a.u.]')
-	plt.ylabel('Population')
+	# plt.hist(fmax_ary, 15)
+	# plt.xlabel('$f_\mathrm{max}$ [a.u.]')
+	# plt.ylabel('Population')
 	
 	#plt.hist(dfof_ary, 20)
 	#plt.xlabel('$\Delta f / f$ [%]')
 	#plt.ylabel('Population')
 
-	# plt.xscale("log")	
-	# plt.plot(wid_pp[0][1], wid_pp[0][0], 'ko', markersize=10, label='WID')
+	plt.xscale("log")	
+	plt.plot(wid_pp[0][1], wid_pp[0][0], 'ko', markersize=10, label='WID')
 	# plt.plot(rtn_pp[0][1], rtn_pp[0][0], 'b^', markersize=10, label='RTN')
 	
 	# plt.plot(fmax_ary, dfof_ary, 'ko', markersize=12)
@@ -64,8 +64,8 @@ for item in directory:
 	# plt.xlabel('$f_\mathrm{max}$ [a.u.]')
 	# plt.ylabel('$\Delta f / f$ [%]')
 	
-	print('../fig_max_hist/' + item[:-4] + '_fig_max_hist.pdf')
-	plt.savefig('../fig_max_hist/' + item[:-4] + '_fig_max_hist.pdf')
+	print('../fig_max_qqplot/' + item[:-4] + '_fig_max_qqplot.pdf')
+	plt.savefig('../fig_max_qqplot/' + item[:-4] + '_fig_max_qqplot.pdf')
 
 	#plt.legend()
 	#plt.grid()
