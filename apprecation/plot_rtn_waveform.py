@@ -17,7 +17,7 @@ matplotlib.rc('font', **font)
 matplotlib.rcParams['lines.linewidth'] = 2
 
 # read binary data
-data = sio.loadmat('../matfiles/180518_ch02v050r0d3_int252_time10000.mat')
+data = sio.loadmat('../chip02/180518_ch02v050r0d3_int252_time10000.mat')
 
 plt.cla()
 nrows = 4
