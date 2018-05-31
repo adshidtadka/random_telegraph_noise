@@ -39,7 +39,8 @@ for item in directory:
 	    # dfof_ary = np.append(dfof_ary, (value.max() - value.min()) / value.max() * 100)
 	
 	wid_data = (fmax_ary - fmax_ary.mean()) / fmax_ary.mean() * 100
-	wid_pp = stats.probplot(wid_data)
+	# wid_pp = stats.probplot(wid_data)
+	wid_pp = stats.probplot(fmax_ary)
 	rtn_pp = stats.probplot(dfof_ary)
 	
 	print(np.corrcoef(wid_data, dfof_ary))
