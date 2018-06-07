@@ -1,0 +1,424 @@
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2018.4.6)  6 JUN 2018 21:04
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**intern_20180607.tex
+(./intern_20180607.tex
+pLaTeX2e <2017/05/05> (based on LaTeX2e <2017-04-15>)
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+Document Class: jsarticle 2017/03/05 okumura, texjporg
+\jsc@mpt=\dimen118
+\jsc@mmm=\dimen119
+\jsc@smallskipamount=\skip41
+LaTeX Info: Redefining \rmfamily on input line 468.
+LaTeX Info: Redefining \sffamily on input line 471.
+LaTeX Info: Redefining \ttfamily on input line 474.
+LaTeX Info: Redefining \textmc on input line 477.
+LaTeX Info: Redefining \textgt on input line 479.
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY1/mc/m/n --> JY1/gt/m/n on input line 540.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 731.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 731.
+\fullwidth=\dimen120
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 883.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 7.68799pt on input line 883.
+\c@part=\count82
+\c@section=\count83
+\c@subsection=\count84
+\c@subsubsection=\count85
+\c@paragraph=\count86
+\c@subparagraph=\count87
+\@abstractbox=\box42
+\c@figure=\count88
+\c@table=\count89
+\abovecaptionskip=\skip42
+\belowcaptionskip=\skip43
+\jsc@tocl@width=\dimen121
+\@lnumwidth=\dimen122
+\bibindent=\dimen123
+(/usr/local/texlive/2017/texmf-dist/tex/platex/jsclasses/jslogo.sty
+Package: jslogo 2017/02/24 okumura, texjporg
+LaTeX Info: Redefining \TeX on input line 94.
+LaTeX Info: Redefining \LaTeX on input line 147.
+LaTeX Info: Redefining \LaTeXe on input line 200.
+)
+\heisei=\count90
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 99.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2016/07/11 v4.12 LaTeX color/graphics driver for dvipdfmx (L
+3/ChoF)
+))
+\Gin@req@height=\dimen124
+\Gin@req@width=\dimen125
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count91
+\float@exts=\toks16
+\float@box=\box43
+\@float@everytoks=\toks17
+\@floatcapt=\box44
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip44
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks18
+\ex@=\dimen126
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen127
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count92
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count93
+\leftroot@=\count94
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count95
+\DOTSCASE@=\count96
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box45
+\strutbox@=\box46
+\big@size=\dimen128
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count97
+\c@MaxMatrixCols=\count98
+\dotsspace@=\muskip10
+\c@parentequation=\count99
+\dspbrk@lvl=\count100
+\tag@help=\toks19
+\row@=\count101
+\column@=\count102
+\maxfields@=\count103
+\andhelp@=\toks20
+\eqnshift@=\dimen129
+\alignsep@=\dimen130
+\tagshift@=\dimen131
+\tagwidth@=\dimen132
+\totwidth@=\dimen133
+\lineht@=\dimen134
+\@envbody=\toks21
+\multlinegap=\skip45
+\multlinetaggap=\skip46
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: dvipdfmx.def on input line 147.
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count104
+\lst@gtempboxa=\box47
+\lst@token=\toks23
+\lst@length=\count105
+\lst@currlwidth=\dimen135
+\lst@column=\count106
+\lst@pos=\count107
+\lst@lostspace=\dimen136
+\lst@width=\dimen137
+\lst@newlines=\count108
+\lst@lineno=\count109
+\lst@maxwidth=\dimen138
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count110
+\lst@skipnumbers=\count111
+\lst@framebox=\box48
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+
+(/usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip47
+\subfigcapskip=\skip48
+\subfigcaptopadj=\dimen139
+\subfigbottomskip=\skip49
+\subfigcapmargin=\dimen140
+\subfiglabelskip=\skip50
+\c@subfigure=\count112
+\c@lofdepth=\count113
+\c@subtable=\count114
+\c@lotdepth=\count115
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip51
+\subfig@bottom=\skip52
+)
+(./intern_20180607.aux
+
+LaTeX Warning: Label `fig:fig_delta_qqplot/180522_ch02v050r36d3_int247_time1000
+0_fig_delta_qqplot.pdf' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig_delta_qqplot/180522_ch02v050r36d3_int247_time
+10000_fig_delta_qqplot.pdf' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig_delta_qqplot/180522_ch02v050r41d3_int163_time1000
+0_fig_delta_qqplot.pdf' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig_delta_qqplot/180522_ch02v050r41d3_int163_time
+10000_fig_delta_qqplot.pdf' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig_delta_qqplot/180522_ch02v050r42d3_int114_time1000
+0_fig_delta_qqplot.pdf' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig_delta_qqplot/180522_ch02v050r42d3_int114_time
+10000_fig_delta_qqplot.pdf' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig_delta_qqplot/180522_ch02v050r43d3_int75_time10000
+_fig_delta_qqplot.pdf' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig_delta_qqplot/180522_ch02v050r43d3_int75_time1
+0000_fig_delta_qqplot.pdf' multiply defined.
+
+
+LaTeX Warning: Label `fig:number_of_network_operations_comparison_5' multiply d
+efined.
+
+
+LaTeX Warning: Label `sub@fig:number_of_network_operations_comparison_5' multip
+ly defined.
+
+
+LaTeX Warning: Label `fig:number_of_network_operations_comparison' multiply def
+ined.
+
+
+LaTeX Warning: Label `fig:fig_delta_qqplot/180522_ch02v050r36d3_int247_time1000
+0_fig_delta_qqplot.pdf' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig_delta_qqplot/180522_ch02v050r36d3_int247_time
+10000_fig_delta_qqplot.pdf' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig_delta_qqplot/180522_ch02v050r41d3_int163_time1000
+0_fig_delta_qqplot.pdf' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig_delta_qqplot/180522_ch02v050r41d3_int163_time
+10000_fig_delta_qqplot.pdf' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig_delta_qqplot/180522_ch02v050r42d3_int114_time1000
+0_fig_delta_qqplot.pdf' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig_delta_qqplot/180522_ch02v050r42d3_int114_time
+10000_fig_delta_qqplot.pdf' multiply defined.
+
+
+LaTeX Warning: Label `fig:fig_delta_qqplot/180522_ch02v050r43d3_int75_time10000
+_fig_delta_qqplot.pdf' multiply defined.
+
+
+LaTeX Warning: Label `sub@fig:fig_delta_qqplot/180522_ch02v050r43d3_int75_time1
+0000_fig_delta_qqplot.pdf' multiply defined.
+
+
+LaTeX Warning: Label `fig:number_of_network_operations_comparison_5' multiply d
+efined.
+
+
+LaTeX Warning: Label `sub@fig:number_of_network_operations_comparison_5' multip
+ly defined.
+
+
+LaTeX Warning: Label `fig:number_of_network_operations_comparison' multiply def
+ined.
+
+)
+\openout1 = `intern_20180607.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for JY1/mc/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+LaTeX Font Info:    Checking defaults for JT1/mc/m/n on input line 8.
+LaTeX Font Info:    ... okay on input line 8.
+\c@lstlisting=\count116
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 16.60605pt on input line 11.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 16.60605pt on input line 11.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 11.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 11.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 5.76599pt on input line 11.
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 13.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 13.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 13.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 13.83836pt on input line 13.
+File: ../fig_max_hist/180518_ch02v050r0d3_int252_time10000_fig_max_hist.pdf Gra
+phic file (type pdf)
+ <../fig_max_hist/180518_ch02v050r0d3_int252_time10000_fig_max_hist.pdf>
+File: ../fig_max_hist/180522_ch02v050r36d3_int247_time10000_fig_max_hist.pdf Gr
+aphic file (type pdf)
+
+<../fig_max_hist/180522_ch02v050r36d3_int247_time10000_fig_max_hist.pdf>
+File: ../fig_max_hist/180522_ch02v050r41d3_int163_time10000_fig_max_hist.pdf Gr
+aphic file (type pdf)
+
+<../fig_max_hist/180522_ch02v050r41d3_int163_time10000_fig_max_hist.pdf>
+File: ../fig_max_hist/180522_ch02v050r42d3_int114_time10000_fig_max_hist.pdf Gr
+aphic file (type pdf)
+
+<../fig_max_hist/180522_ch02v050r42d3_int114_time10000_fig_max_hist.pdf>
+File: ../fig_max_hist/180522_ch02v050r43d3_int75_time10000_fig_max_hist.pdf Gra
+phic file (type pdf)
+
+<../fig_max_hist/180522_ch02v050r43d3_int75_time10000_fig_max_hist.pdf>
+File: ../fig_max_hist/180522_ch02v050r44d3_int41_time10000_fig_max_hist.pdf Gra
+phic file (type pdf)
+
+<../fig_max_hist/180522_ch02v050r44d3_int41_time10000_fig_max_hist.pdf>
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 51.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 51.
+
+[1
+
+]
+File: ../fig_max_qqplot/180518_ch02v050r0d3_int252_time10000_fig_max_qqplot.pdf
+ Graphic file (type pdf)
+
+<../fig_max_qqplot/180518_ch02v050r0d3_int252_time10000_fig_max_qqplot.pdf>
+File: ../fig_delta_hist/180518_ch02v050r0d3_int252_time10000_fig_delta_hist.pdf
+ Graphic file (type pdf)
+
+<../fig_delta_hist/180518_ch02v050r0d3_int252_time10000_fig_delta_hist.pdf>
+[2]
+File: ../fig_delta_hist/180522_ch02v050r36d3_int247_time10000_fig_delta_hist.pd
+f Graphic file (type pdf)
+
+<../fig_delta_hist/180522_ch02v050r36d3_int247_time10000_fig_delta_hist.pdf>
+File: ../fig_delta_hist/180522_ch02v050r41d3_int163_time10000_fig_delta_hist.pd
+f Graphic file (type pdf)
+
+<../fig_delta_hist/180522_ch02v050r41d3_int163_time10000_fig_delta_hist.pdf>
+File: ../fig_delta_hist/180522_ch02v050r42d3_int114_time10000_fig_delta_hist.pd
+f Graphic file (type pdf)
+
+<../fig_delta_hist/180522_ch02v050r42d3_int114_time10000_fig_delta_hist.pdf>
+File: ../fig_delta_hist/180522_ch02v050r43d3_int75_time10000_fig_delta_hist.pdf
+ Graphic file (type pdf)
+
+<../fig_delta_hist/180522_ch02v050r43d3_int75_time10000_fig_delta_hist.pdf>
+File: ../fig_delta_hist/180522_ch02v050r44d3_int41_time10000_fig_delta_hist.pdf
+ Graphic file (type pdf)
+
+<../fig_delta_hist/180522_ch02v050r44d3_int41_time10000_fig_delta_hist.pdf>
+File: ../fig_delta_qqplot/180522_ch02v050r36d3_int247_time10000_fig_delta_qqplo
+t.pdf Graphic file (type pdf)
+
+<../fig_delta_qqplot/180522_ch02v050r36d3_int247_time10000_fig_delta_qqplot.pdf
+>
+File: ../fig_delta_qqplot/180522_ch02v050r41d3_int163_time10000_fig_delta_qqplo
+t.pdf Graphic file (type pdf)
+
+<../fig_delta_qqplot/180522_ch02v050r41d3_int163_time10000_fig_delta_qqplot.pdf
+>
+File: ../fig_delta_qqplot/180522_ch02v050r42d3_int114_time10000_fig_delta_qqplo
+t.pdf Graphic file (type pdf)
+
+<../fig_delta_qqplot/180522_ch02v050r42d3_int114_time10000_fig_delta_qqplot.pdf
+>
+File: ../fig_delta_qqplot/180522_ch02v050r43d3_int75_time10000_fig_delta_qqplot
+.pdf Graphic file (type pdf)
+
+<../fig_delta_qqplot/180522_ch02v050r43d3_int75_time10000_fig_delta_qqplot.pdf>
+File: ../fig_delta_qqplot/180522_ch02v050r44d3_int41_time10000_fig_delta_qqplot
+.pdf Graphic file (type pdf)
+
+<../fig_delta_qqplot/180522_ch02v050r44d3_int41_time10000_fig_delta_qqplot.pdf>
+[3] [4] (./intern_20180607.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3102 strings out of 493653
+ 45673 string characters out of 6148875
+ 105549 words of memory out of 5000000
+ 6661 multiletter control sequences out of 15000+600000
+ 14183 words of font info for 62 fonts, out of 8000000 for 9000
+ 934 hyphenation exceptions out of 8191
+ 27i,6n,32p,435b,330s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on intern_20180607.dvi (4 pages, 6404 bytes).
