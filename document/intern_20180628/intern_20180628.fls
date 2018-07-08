@@ -1,0 +1,119 @@
+PWD /Users/takaaki/github/onodera_lab/document/intern_20180628
+INPUT /usr/local/texlive/2017/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-var/web2c/eptex/platex.fmt
+INPUT intern_20180628.tex
+OUTPUT intern_20180628.log
+INPUT /usr/local/texlive/2017/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+INPUT /usr/local/texlive/2017/texmf-dist/tex/platex/jsclasses/jsarticle.cls
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/tex/platex/jsclasses/jslogo.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/platex/jsclasses/jslogo.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/platex/jsclasses/jslogo.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/float/float.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsmath.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amstext.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsgen.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsbsy.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/amsmath/amsopn.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/color.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/color.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/dvipsnam.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.cfg
+INPUT intern_20180628.aux
+INPUT intern_20180628.aux
+OUTPUT intern_20180628.aux
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/standard/tgoth10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/jis/jisg.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmss12.tfm
+INPUT ../../images/anotation/p655.pdf
+INPUT extractbb -O ../../images/anotation/p655.pdf
+INPUT ../../least_squares/p655.png
+INPUT extractbb -O ../../least_squares/p655.png
+INPUT ../../images/waveform/p655.pdf
+INPUT extractbb -O ../../images/waveform/p655.pdf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr9.tfm
+OUTPUT intern_20180628.dvi
+INPUT ../../images/anotation/n420.pdf
+INPUT extractbb -O ../../images/anotation/n420.pdf
+INPUT ../../least_squares/n420.png
+INPUT extractbb -O ../../least_squares/n420.png
+INPUT ../../images/waveform/n420.pdf
+INPUT extractbb -O ../../images/waveform/n420.pdf
+INPUT ../../images/anotation/square.pdf
+INPUT extractbb -O ../../images/anotation/square.pdf
+INPUT ../../least_squares/square.png
+INPUT extractbb -O ../../least_squares/square.png
+INPUT ../../images/waveform/square.pdf
+INPUT extractbb -O ../../images/waveform/square.pdf
+INPUT ../../images/anotation/stage.pdf
+INPUT extractbb -O ../../images/anotation/stage.pdf
+INPUT ../../least_squares/stage.png
+INPUT extractbb -O ../../least_squares/stage.png
+INPUT ../../images/waveform/stage.pdf
+INPUT extractbb -O ../../images/waveform/stage.pdf
+INPUT ../../images/anotation/load.pdf
+INPUT extractbb -O ../../images/anotation/load.pdf
+INPUT ../../least_squares/load.png
+INPUT extractbb -O ../../least_squares/load.png
+INPUT ../../images/waveform/load.pdf
+INPUT extractbb -O ../../images/waveform/load.pdf
+INPUT intern_20180628.aux
