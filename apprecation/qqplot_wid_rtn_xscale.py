@@ -36,7 +36,6 @@ for item in directory:
 	    
 	    fmax_ary = np.append(fmax_ary, value.max())
 	    dfof_ary = np.append(dfof_ary, (value.max() - value.min()) / value.max())
-	    # dfof_ary = np.append(dfof_ary, (value.max() - value.min()) / value.max() * 100)
 	
 	wid_data = (fmax_ary - fmax_ary.mean()) / fmax_ary.mean() * 100
 	# wid_pp = stats.probplot(wid_data)
@@ -48,9 +47,9 @@ for item in directory:
 	
 	plt.cla()
 	
-	# plt.hist(fmax_ary, 15)
-	# plt.xlabel('$f_\mathrm{max}$ [a.u.]')
-	# plt.ylabel('Population')
+	plt.hist(fmax_ary, 15)
+	plt.xlabel('$f_\mathrm{max}$ [a.u.]')
+	plt.ylabel('Population')
 	
 	#plt.hist(dfof_ary, 20)
 	#plt.xlabel('$\Delta f / f$ [%]')
