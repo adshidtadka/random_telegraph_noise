@@ -1,4 +1,4 @@
-This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2018.4.6)  8 JUL 2018 22:45
+This is e-pTeX, Version 3.14159265-p3.7.1-161114-2.6 (utf8.euc) (TeX Live 2017) (preloaded format=platex 2018.4.6)  12 JUL 2018 13:51
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -197,7 +197,11 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfig@top=\skip51
 \subfig@bottom=\skip52
 )
-(./intern_20180712.aux)
+(./intern_20180712.aux
+
+LaTeX Warning: Label `sec:result_stage' multiply defined.
+
+)
 \openout1 = `intern_20180712.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 8.
@@ -238,70 +242,214 @@ LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
  [1
 
 ]
+LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 31.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 8.64899pt on input line 31.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 6.72699pt on input line 34.
+LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
+(Font)              scaled to size 4.805pt on input line 34.
+
+Overfull \hbox (31.1153pt too wide) in paragraph at lines 34--66
+ [][][][] 
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 74.
+(/usr/local/texlive/2017/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 74.
+ [2]
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 85.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 11.53198pt on input line 85.
+File: ../../images/fig_max_hist/p655/180518_ch02v050r2d3_int44_time10000_fig_ma
+x_hist.pdf Graphic file (type pdf)
+
+<../../images/fig_max_hist/p655/180518_ch02v050r2d3_int44_time10000_fig_max_his
+t.pdf>
+File: ../../images/fig_max_hist/p655/180518_ch02v050r4d3_int74_time10000_fig_ma
+x_hist.pdf Graphic file (type pdf)
+
+<../../images/fig_max_hist/p655/180518_ch02v050r4d3_int74_time10000_fig_max_his
+t.pdf>
+File: ../../images/fig_max_hist/p655/180518_ch02v050r6d3_int160_time10000_fig_m
+ax_hist.pdf Graphic file (type pdf)
+
+<../../images/fig_max_hist/p655/180518_ch02v050r6d3_int160_time10000_fig_max_hi
+st.pdf>
+File: ../../images/fig_max_hist/p655/180518_ch02v050r8d3_int313_time10000_fig_m
+ax_hist.pdf Graphic file (type pdf)
+
+<../../images/fig_max_hist/p655/180518_ch02v050r8d3_int313_time10000_fig_max_hi
+st.pdf>
+File: ../../images/fig_max_hist/p655/180518_ch02v050r10d3_int543_time10000_fig_
+max_hist.pdf Graphic file (type pdf)
+
+<../../images/fig_max_hist/p655/180518_ch02v050r10d3_int543_time10000_fig_max_h
+ist.pdf>
 File: ../../images/anotation/p655.pdf Graphic file (type pdf)
  <../../images/anotation/p655.pdf>
 File: ../../least_squares/p655.png Graphic file (type bmp)
+ <../../least_squares/p655.png>
+File: ../../images/waveform/p655_n280.pdf Graphic file (type pdf)
 
-<../../least_squares/p655.png>
-File: ../../images/waveform/p655.pdf Graphic file (type pdf)
- <../../images/waveform/p655.pdf>
-LaTeX Font Info:    Font shape `JT1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 49.
-LaTeX Font Info:    Font shape `JY1/mc/m/n' will be
-(Font)              scaled to size 8.64899pt on input line 49.
- [2]
+<../../images/waveform/p655_n280.pdf>
+File: ../../images/timelag/p655_n280.pdf Graphic file (type pdf)
+ <../../images/timelag/p655_n280.pdf>
+File: ../../images/waveform/p655_n2240.pdf Graphic file (type pdf)
+
+<../../images/waveform/p655_n2240.pdf> [3] [4] [5]
+File: ../../images/timelag/p655_n2240.pdf Graphic file (type pdf)
+
+<../../images/timelag/p655_n2240.pdf>
+File: ../../images/fig_max_hist/n420/180518_ch02v050r12d3_int101_time10000_fig_
+max_hist.pdf Graphic file (type pdf)
+
+<../../images/fig_max_hist/n420/180518_ch02v050r12d3_int101_time10000_fig_max_h
+ist.pdf>
+File: ../../images/fig_max_hist/n420/180518_ch02v050r14d3_int160_time10000_fig_
+max_hist.pdf Graphic file (type pdf)
+
+<../../images/fig_max_hist/n420/180518_ch02v050r14d3_int160_time10000_fig_max_h
+ist.pdf>
+File: ../../images/fig_max_hist/n420/180518_ch02v050r16d3_int266_time10000_fig_
+max_hist.pdf Graphic file (type pdf)
+
+<../../images/fig_max_hist/n420/180518_ch02v050r16d3_int266_time10000_fig_max_h
+ist.pdf>
+File: ../../images/fig_max_hist/n420/180518_ch02v050r18d3_int453_time10000_fig_
+max_hist.pdf Graphic file (type pdf)
+
+<../../images/fig_max_hist/n420/180518_ch02v050r18d3_int453_time10000_fig_max_h
+ist.pdf>
+File: ../../images/fig_max_hist/n420/180519_ch02v050r20d3_int671_time10000_fig_
+max_hist.pdf Graphic file (type pdf)
+
+<../../images/fig_max_hist/n420/180519_ch02v050r20d3_int671_time10000_fig_max_h
+ist.pdf>
 File: ../../images/anotation/n420.pdf Graphic file (type pdf)
-
-<../../images/anotation/n420.pdf>
+ <../../images/anotation/n420.pdf>
 File: ../../least_squares/n420.png Graphic file (type bmp)
  <../../least_squares/n420.png>
-File: ../../images/waveform/n420.pdf Graphic file (type pdf)
+File: ../../images/fig_max_hist/square/180522_ch02v050r36d3_int247_time10000_fi
+g_max_hist.pdf Graphic file (type pdf)
 
-<../../images/waveform/n420.pdf> [3]
-Overfull \vbox (34.12271pt too high) has occurred while \output is active []
+<../../images/fig_max_hist/square/180522_ch02v050r36d3_int247_time10000_fig_max
+_hist.pdf>
+File: ../../images/fig_max_hist/square/180522_ch02v050r37d3_int354_time10000_fi
+g_max_hist.pdf Graphic file (type pdf)
 
+<../../images/fig_max_hist/square/180522_ch02v050r37d3_int354_time10000_fig_max
+_hist.pdf>
+File: ../../images/fig_max_hist/square/180522_ch02v050r38d3_int543_time10000_fi
+g_max_hist.pdf Graphic file (type pdf)
 
-[4]
+<../../images/fig_max_hist/square/180522_ch02v050r38d3_int543_time10000_fig_max
+_hist.pdf>
+File: ../../images/fig_max_hist/square/180522_ch02v050r39d3_int657_time10000_fi
+g_max_hist.pdf Graphic file (type pdf)
+
+<../../images/fig_max_hist/square/180522_ch02v050r39d3_int657_time10000_fig_max
+_hist.pdf>
+File: ../../images/fig_max_hist/square/180522_ch02v050r40d3_int760_time10000_fi
+g_max_hist.pdf Graphic file (type pdf)
+
+<../../images/fig_max_hist/square/180522_ch02v050r40d3_int760_time10000_fig_max
+_hist.pdf>
 File: ../../images/anotation/square.pdf Graphic file (type pdf)
  <../../images/anotation/square.pdf>
 File: ../../least_squares/square.png Graphic file (type bmp)
- <../../least_squares/square.png>
-File: ../../images/waveform/square.pdf Graphic file (type pdf)
 
-<../../images/waveform/square.pdf>
-Overfull \vbox (12.84052pt too high) has occurred while \output is active []
+<../../least_squares/square.png>
+File: ../../images/fig_max_hist/stage/180522_ch02v050r35d3_int250_time10000_fig
+_max_hist.pdf Graphic file (type pdf)
 
+<../../images/fig_max_hist/stage/180522_ch02v050r35d3_int250_time10000_fig_max_
+hist.pdf>
+File: ../../images/fig_max_hist/stage/180522_ch02v050r41d3_int163_time10000_fig
+_max_hist.pdf Graphic file (type pdf)
 
-[5]
+<../../images/fig_max_hist/stage/180522_ch02v050r41d3_int163_time10000_fig_max_
+hist.pdf>
+File: ../../images/fig_max_hist/stage/180522_ch02v050r42d3_int114_time10000_fig
+_max_hist.pdf Graphic file (type pdf)
+
+<../../images/fig_max_hist/stage/180522_ch02v050r42d3_int114_time10000_fig_max_
+hist.pdf>
+File: ../../images/fig_max_hist/stage/180522_ch02v050r43d3_int75_time10000_fig_
+max_hist.pdf Graphic file (type pdf)
+
+<../../images/fig_max_hist/stage/180522_ch02v050r43d3_int75_time10000_fig_max_h
+ist.pdf>
+File: ../../images/fig_max_hist/stage/180522_ch02v050r44d3_int41_time10000_fig_
+max_hist.pdf Graphic file (type pdf)
+
+<../../images/fig_max_hist/stage/180522_ch02v050r44d3_int41_time10000_fig_max_h
+ist.pdf> [6] [7] [8]
 File: ../../images/anotation/stage.pdf Graphic file (type pdf)
  <../../images/anotation/stage.pdf>
 File: ../../least_squares/stage.png Graphic file (type bmp)
- <../../least_squares/stage.png>
-File: ../../images/waveform/stage.pdf Graphic file (type pdf)
 
-<../../images/waveform/stage.pdf>
-Overfull \vbox (14.26804pt too high) has occurred while \output is active []
+<../../least_squares/stage.png>
+File: ../../images/fig_max_hist/load/180522_ch02v050r49d3_int234_time10000_fig_
+max_hist.pdf Graphic file (type pdf)
 
+<../../images/fig_max_hist/load/180522_ch02v050r49d3_int234_time10000_fig_max_h
+ist.pdf>
+File: ../../images/fig_max_hist/load/180522_ch02v050r46d3_int164_time10000_fig_
+max_hist.pdf Graphic file (type pdf)
 
-[6]
+<../../images/fig_max_hist/load/180522_ch02v050r46d3_int164_time10000_fig_max_h
+ist.pdf>
+File: ../../images/fig_max_hist/load/180522_ch02v050r47d3_int129_time10000_fig_
+max_hist.pdf Graphic file (type pdf)
+
+<../../images/fig_max_hist/load/180522_ch02v050r47d3_int129_time10000_fig_max_h
+ist.pdf>
+File: ../../images/fig_max_hist/load/180522_ch02v050r48d3_int83_time10000_fig_m
+ax_hist.pdf Graphic file (type pdf)
+
+<../../images/fig_max_hist/load/180522_ch02v050r48d3_int83_time10000_fig_max_hi
+st.pdf>
 File: ../../images/anotation/load.pdf Graphic file (type pdf)
  <../../images/anotation/load.pdf>
 File: ../../least_squares/load.png Graphic file (type bmp)
  <../../least_squares/load.png>
-File: ../../images/waveform/load.pdf Graphic file (type pdf)
+File: ../../images/waveform/load_large.pdf Graphic file (type pdf)
 
-<../../images/waveform/load.pdf>
-Overfull \vbox (12.84052pt too high) has occurred while \output is active []
+<../../images/waveform/load_large.pdf>
+File: ../../images/timelag/load_large.pdf Graphic file (type pdf)
+ <../../images/timelag/load_large.pdf>
+File: ../../images/waveform/load_none.pdf Graphic file (type pdf)
 
+<../../images/waveform/load_none.pdf>
+File: ../../images/timelag/load_none.pdf Graphic file (type pdf)
+ <../../images/timelag/load_none.pdf>
+[9] [10]
+LaTeX Font Info:    Font shape `JT1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JT1/gt/m/n' tried instead on input line 391.
+LaTeX Font Info:    Font shape `JT1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 391.
+LaTeX Font Info:    Font shape `JY1/mc/bx/n' in size <10> not available
+(Font)              Font shape `JY1/gt/m/n' tried instead on input line 391.
+LaTeX Font Info:    Font shape `JY1/gt/m/n' will be
+(Font)              scaled to size 9.60999pt on input line 391.
+ [11] [12] [13] [14] [15] [16] (./intern_20180712.aux)
 
-[7] (./intern_20180712.aux) ) 
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3103 strings out of 493653
- 42844 string characters out of 6148875
- 106728 words of memory out of 5000000
- 6676 multiletter control sequences out of 15000+600000
- 14183 words of font info for 62 fonts, out of 8000000 for 9000
+ 3267 strings out of 493653
+ 50626 string characters out of 6148875
+ 113230 words of memory out of 5000000
+ 6796 multiletter control sequences out of 15000+600000
+ 15998 words of font info for 72 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 27i,6n,32p,968b,330s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 27i,9n,32p,968b,332s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on intern_20180712.dvi (7 pages, 10428 bytes).
+Output written on intern_20180712.dvi (16 pages, 31780 bytes).
